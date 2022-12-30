@@ -1,4 +1,4 @@
-const characters = ["Eren Jaeger", "Mikasa Ackerman", "Armin Arlet", "Levi Ackerman", "Krista Lenz", "Hange Zoe", "Sasha Blouse", "Erwin Smith" ];
+const characters = ["Eren Jaeger", "Mikasa Ackerman", "Armin Arlet", "Levi Ackerman", "Krista Lenz", "Hange Zoe", "Sasha Blouse", "Erwin Smith", "Jean Kirstein", "Connie Springer", "Ymir", "Annie Leonhart", "Reiner Braun", "Bertolt Hoover", "Zeke Jaeger", "Grisha Jaeger", "Carla Jaeger", "Rod Reiss", "Kenny Ackermann"  ];
 let characterGenerator = document.getElementById("btn");
 let myLabel = document.getElementById("lbl");
 
